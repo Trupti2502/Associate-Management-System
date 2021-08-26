@@ -26,7 +26,7 @@
 ->Updation can be performed on master table.
 
 #TABLES
-1)ENQUIRY table(ORC Table] //ENQUIRY table is master table.
+1)ENQUIRY table(ORC and master table)
 2)DEMO_SCHEDULE table
 3)DEMO_MISSED table
 4)COURSE_ENROLL Table
