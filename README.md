@@ -24,3 +24,10 @@
 ->Installments availability on any types of payment mode.
 ->Availability of both Online and Offline mode of training.
 ->Updation can be performed on master table.
+
+#TABLES
+1)ENQUIRY table(ORC Table] //ENQUIRY table is master table.
+2)DEMO_SCHEDULE table
+3)DEMO_MISSED table
+4)COURSE_ENROLL Table
+5)BATCH_DISTRIBUTION table
