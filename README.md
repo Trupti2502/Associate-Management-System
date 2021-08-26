@@ -1,6 +1,6 @@
-### HIVE PROJECT
+# HIVE PROJECT
 ## FUTURE 4 IT
-#TOOLS AND TECHNOLOGIES
+### TOOLS AND TECHNOLOGIES
 1)Cloudera5
 2)Hadoop
 3)Hue
@@ -8,7 +8,7 @@
 5)Microsoft Excel
 6)Microsoft Powerpoint
 
-#DESCRIPTION
+### DESCRIPTION
 ->This project created in hive. 
 ->This project is aboout create and maintain a database for candidate enrollment where they provide training for various courses.
 ->In this project we created five tables.
@@ -16,7 +16,7 @@
 ->We also performed queries in tables where we extracted the data from it.
 ->We run this project in hive terminal in cdh5 and hue from browser.
 
-#FEATURES
+### FEATURES
 ->Availability of multiple courses, Discounts on each course.
 ->Availability of demo sessions on weekdays as well as weekends.
 ->Rescheduling of demo session if missed.
@@ -25,7 +25,7 @@
 ->Availability of both Online and Offline mode of training.
 ->Updation can be performed on master table.
 
-#TABLES
+### TABLES
 1)ENQUIRY table(ORC and master table)
 2)DEMO_SCHEDULE table
 3)DEMO_MISSED table
