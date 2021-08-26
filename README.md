@@ -31,3 +31,8 @@
 3)DEMO_MISSED table
 4)COURSE_ENROLL Table
 5)BATCH_DISTRIBUTION table
+
+
+#ENQUIRY TABLE(ORC and master table)
+Created student table having attributes ID,NameMail. Mobile_no, Course, Fee, Discount, Date Status,status_final
+
