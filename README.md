@@ -47,4 +47,3 @@ This table contains list of all the students who have enrolled and drop course.d
 
 #batch table
 this table contains details of students who joined training where data is taken from enroll table with added attributes like joining_date,week_day,day,time
-
