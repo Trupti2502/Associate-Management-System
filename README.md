@@ -14,16 +14,16 @@
 #### ->In this project we created five tables.
 #### ->We performed various operations in this project like table join, partitioning, updating etc.
 #### ->We also performed queries in tables where we extracted the data from it.
-# ->We run this project in hive terminal in cdh5 and hue from browser.
+#### ->We run this project in hive terminal in cdh5 and hue from browser.
 
 ### FEATURES
-# ->Availability of multiple courses, Discounts on each course.
-# ->Availability of demo sessions on weekdays as well as weekends.
-# ->Rescheduling of demo session if missed.
-# ->Multiple payment modes.
-# ->Installments availability on any types of payment mode.
-# ->Availability of both Online and Offline mode of training.
-# ->Updation can be performed on master table.
+#### ->Availability of multiple courses, Discounts on each course.
+#### ->Availability of demo sessions on weekdays as well as weekends.
+ ->Rescheduling of demo session if missed.
+ ->Multiple payment modes.
+ ->Installments availability on any types of payment mode.
+ ->Availability of both Online and Offline mode of training.
+ ->Updation can be performed on master table.
 
 ### TABLES
 # 1)ENQUIRY table(ORC and master table)
