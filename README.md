@@ -1,12 +1,12 @@
 # HIVE PROJECT
 # FUTURE 4 IT
 ### TOOLS AND TECHNOLOGIES
-#### 1)Cloudera5
-#### 2)Hadoop
-#### 3)Hue
-#### 4)Github
-#### 5)Microsoft Excel
-#### 6)Microsoft Powerpoint
+1)Cloudera5
+2)Hadoop
+3)Hue
+4)Github
+5)Microsoft Excel
+6)Microsoft Powerpoint
 
 ### DESCRIPTION
 #### ->This project created in hive. 
