@@ -1,12 +1,5 @@
 # HIVE PROJECT
 # FUTURE 4 IT
-### TOOLS AND TECHNOLOGIES
-1)Cloudera5 <br>
-2)Hadoop <br>
-3)Hue <br>
-4)Github <br>
-5)Microsoft Excel <br>
-6)Microsoft Powerpoint <br>
 
 ### DESCRIPTION
 * This project created in hive. <br> 
@@ -15,6 +8,14 @@
 * We performed various operations in this project like table join, partitioning, updating etc. <br>
 * We also performed queries in tables where we extracted the data from it. <br>
 * We run this project in hive terminal in cdh5 and hue from browser. <br>
+
+### TOOLS AND TECHNOLOGIES
+1)Cloudera5 <br>
+2)Hadoop <br>
+3)Hue <br>
+4)Github <br>
+5)Microsoft Excel <br>
+6)Microsoft Powerpoint <br>
 
 ### FEATURES
 * Availability of multiple courses, Discounts on each course. <br>
