@@ -47,5 +47,5 @@ This table contains list of all the students who have enrolled and drop course.d
 
 
 ## License
-This project uses the following license: [MIT License](LICENSE)
+This project uses the following license: [Apache License](LICENSE)
 
